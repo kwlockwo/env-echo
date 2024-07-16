@@ -1,4 +1,6 @@
-#!/usr/bin/env bash
+#!/bin/sh
+
+# #!/usr/bin/env bash
 
 echo "#### FOO: $FOO ####"
 echo "#### BAR: $BAR ####"
